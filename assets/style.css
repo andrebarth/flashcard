@@ -1,5 +1,5 @@
 body{
-background-color: aqua;
+background-color: wheat;
 font-family: Bai Jamjuree;
 }
 
@@ -9,6 +9,11 @@ display: flex;
 
 .cartao{
     margin: 1rem 1rem;
+    background-color:aqua ;
+height: 20rem;
+flex-grow: 1;
+
+
 }
 
 
