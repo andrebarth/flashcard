@@ -1,8 +1,10 @@
 body{
 background-color: aqua;
 }
+
 footer{
     background-color: black;
     color: white;
+    position:fixed;
     bottom: 0;
 }
