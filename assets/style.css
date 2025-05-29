@@ -22,7 +22,7 @@ font-family: Bai Jamjuree;
 }
 
 .cartao__conteudo h3 {
-    color: var(--text-color);
+    color:rebeccapurple
     border: 1px solid var(--text-color);
     text-align: left;
     padding: 0.5rem;
@@ -38,12 +38,12 @@ font-family: Bai Jamjuree;
 }
 
 .cartao__conteudo__pergunta p {
-    color: var(--text-color);
+    color:green
     font-weight: 500;
 }
 
 .cartao__conteudo__resposta p {
-    color: var(--card-back-color);
+    color:aliceblue
     font-weight: 700;
 }
 
