@@ -15,7 +15,7 @@ font-family: Bai Jamjuree;
 }
 
 .cartao__conteudo {
-    background-color: var(--card-front-color);
+    background-color:blue
     text-align: center;
     /* background-color: aquamarine; */
     height: 100%;
