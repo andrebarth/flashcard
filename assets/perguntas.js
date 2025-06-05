@@ -1,12 +1,12 @@
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Futebol',
+    'Quantas champions tem o Real Madid?',
+    'o Real Madrid tem 15 champions'
 )
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Trator',
+    'Quantos cv tem o trator 55x',
+    'ele tem 55cv'
 )
 criaCartao(
     categoria,
