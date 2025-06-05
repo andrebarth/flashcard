@@ -5,11 +5,11 @@ criaCartao(
 )
 criaCartao(
     'Trator',
-    'Quantos cv tem o trator 55x',
-    'ele tem 55cv'
+    'Quantos cv tem o trator 55x?',
+    'Ele tem 55cv'
 )
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Moto',
+    'Qual a moto de Motocros mais vendida pela Honda?',
+    'CRF250R'
 )
