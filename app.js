@@ -4,8 +4,16 @@ let cartao = document.createElement('article')
 cartao.className = 'cartao'
 
 cartao.innerHTML = `
-
+<div class="cartao__conteudo">
+                    <h3>Futebol</h3>
+                    <div class="cartao__conteudo__pergunta">
+                       <p> Quantos champions tem o real madrid?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                   <p>O real madrid tem 15 champions</p> 
+                    </div>
+                   </div>
 `
-
+container.appendChild
 
 }
