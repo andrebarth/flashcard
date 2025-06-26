@@ -60,7 +60,7 @@ body {
 .cartao__conteudo__resposta p {
     color: var(--card-back-color);
     font-weight: 700;
-    background-color: rgba(0, 244, 191, 0.2)
+
 }
 
 .cartao.active .cartao__conteudo {
@@ -77,6 +77,7 @@ body {
 
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
+    background-color: rgba(0, 244, 191, 0.2)
 }
 
 
