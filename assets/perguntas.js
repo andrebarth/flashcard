@@ -13,3 +13,8 @@ criaCartao(
     'Qual a moto de Motocros mais vendida pela Honda?',
     'CRF250R'
 )
+criaCartao(
+    'animal',
+    'Quantas pernas a vaca tem?',
+    '4'
+)
