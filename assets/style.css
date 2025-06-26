@@ -78,6 +78,7 @@ body {
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
     background-color: rgba(0, 244, 191, 0.2)
+    boder 4px solid var(--card-back-color)
 }
 
 
